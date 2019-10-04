@@ -1,0 +1,46 @@
+#otd2{
+    align-content: center;
+    margin: 0px;
+   padding: 0px;
+   background-color: rgba(241, 0, 0, 0);
+   max-width: 1500px;
+   max-height: 300px;
+    border: 0px ;
+}
+body {
+     zoom: 85%;
+    background-color: rgb(142, 255, 142); 
+    max-width: 1920px; 
+    border-radius: 30px;
+    border: 10px rgb(255, 97, 255) dotted;
+}
+
+img { align-content: center;
+   border-radius: 30px;
+    border: 10px rgb(231, 255, 97) dotted;
+   max-width: 333px;
+   max-height: 222px;
+}
+h1 {
+    
+    color: rgb(250, 0, 234);
+    font-family: 'Bad Script', cursive;
+    background-color: rgb(249, 253, 185);
+   text-align: center;
+   border-radius: 55.5555%;
+   border-bottom: 10px rgb(255, 97, 255) dotted;
+}
+p {
+    align-self:center;
+}
+#otd {
+     align-content: center;
+    margin: 0px;
+   padding: 0px;
+   background-color: rgba(241, 0, 0, 0);
+   max-width: 1500px;
+   max-height: 2222px;
+    border: 0px ;
+}
+
+
